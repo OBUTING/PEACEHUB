@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+*.log
+
+# Environment variables
+.env
+
+# Build outputs (if any)
+dist/
+build/
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large media files (optional - keep small images)
+# *.mp4
+# *.mov
